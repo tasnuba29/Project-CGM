@@ -1,1 +1,2 @@
 # Project-CGM
+This computer graphics project is developed using the language “OpenGL” and the project title is “sinking ship”. This project is implemented in a simplified way and have used simple inbuilt OpenGl functions. The objects designed in this project are a ship and an obstacle(iceberg). A ship will be traveling in the see, at some point, an obstacle will appear in the way of the ship and the ship will collide with the obstacle and then it will quickly into the sea.
